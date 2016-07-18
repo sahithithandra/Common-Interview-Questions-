@@ -4,6 +4,8 @@ import java.util.Arrays;
 /* Count number of inversions in an integer array A where inversion is
  * a pair p(A[i], A[j]) in which i<j and A[i] > A[j]
  */
+
+public class CountNumberOfInversions {
     
     public static void main(String[] args) throws IOException{
         
